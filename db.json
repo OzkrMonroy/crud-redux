@@ -1,0 +1,39 @@
+{
+  "libros": [
+    {
+      "id": 2,
+      "nombre": "Aprendiendo Android Q",
+      "precio": "75"
+    },
+    {
+      "id": 3,
+      "nombre": "Little Prince",
+      "precio": "225"
+    },
+    {
+      "nombre": "It",
+      "precio": "125",
+      "id": 4
+    },
+    {
+      "nombre": "Omega 13",
+      "precio": "25",
+      "id": 5
+    },
+    {
+      "nombre": "Learn Python",
+      "precio": "120",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "nombre": "From Buick 8",
+      "precio": "120"
+    },
+    {
+      "nombre": "El Resplandor",
+      "precio": "98",
+      "id": 8
+    }
+  ]
+}
